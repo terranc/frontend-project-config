@@ -1,0 +1,15 @@
+{
+  "[javascript]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    "editor.formatOnSave": true
+  },
+  "javascript.format.enable": true,
+  "prettier.eslintIntegration": true,
+  "prettier.tslintIntegration": true,
+  "prettier.stylelintIntegration": true,
+  "prettier.requireConfig": true,
+  "eslint.autoFixOnSave": true,
+  "eslint.enable": true,
+  "eslint.alwaysShowStatus": true
+}
